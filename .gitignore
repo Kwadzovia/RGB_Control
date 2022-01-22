@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# STM32 Files
+/Debug/
+/Release/
+/.settings/ 
+.mxproject
